@@ -1,0 +1,15 @@
+{
+    "title": "Test Publishing",
+    "baseURL": "https:\/\/photos.testpublishing.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "testpublishing.com"
+    }
+}
